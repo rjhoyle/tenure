@@ -25,7 +25,7 @@ Tenure Package
 - [Can Privacy Be Satisfying?  On Improving Viewer Satisfaction for Privacy-Enhanced Photos Using Aesthetic Transforms](papers/satisfying-chi19.pdf).  The 2019 ACM SIGCHI Conference on Human Factors in Computing Systems (CHI '19).
 
 ## Communication
-- [The Impact of Viral Posts on Visibility and Behavior of Professionals: A Longitudinal Study of Scientists on Twitter](papers/viral-posts-icwsm21.pdf)
+- [The Impact of Viral Posts on Visibility and Behavior of Professionals: A Longitudinal Study of Scientists on Twitter](papers/viral-posts-icwsm21.pdf).  To appear in the Proceedings of The International AAAI Conference on Web and Social Media (ICWSM '21).
 
 - [Interrupt Now or Inform Later?: Comparing Immediate andDelayed Privacy Feedback](papers/feedback-chi.pdf) The 2015 ACM SIGCHI Conference on Human Factors in Computing Systems (CHI '15).
 
